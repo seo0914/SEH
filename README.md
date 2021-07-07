@@ -10,5 +10,11 @@
 
 ## Dataset Download  
  
-1. download Data.zip file (https://drive.google.com/file/d/1CrKpE-ADNTO-Pakpzfb3kPRD4dayQR9i/view?usp=sharing)
-2. Unzip Data.zip 
+1. Download Data.zip file (https://drive.google.com/file/d/1r4lkzssT4FlFAlKMvEV7EZ3LGJ7zxomJ/view?usp=sharing)
+2. Extract Data.zip 
+
+## Directory  
+
+Data 
+|-- all_data 
+|-- labels 
