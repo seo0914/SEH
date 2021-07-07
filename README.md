@@ -6,5 +6,5 @@ Stereo Feature Learning based on Attention and Geometry for Absolute Hand Pose E
 
 ## Dataset Download  
  
-1. download Data.zip file https://github.com/vchoutas/smplx)
+1. download Data.zip file (https://drive.google.com/file/d/1CrKpE-ADNTO-Pakpzfb3kPRD4dayQR9i/view?usp=sharing)
 2. Unzip Data.zip 
